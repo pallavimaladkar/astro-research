@@ -1,2 +1,2 @@
 # astro-research
-astrophysics research project, NC State University
+Pallavi Maladkar, Astrophysics Research Project, NC State University
